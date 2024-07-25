@@ -120,6 +120,8 @@ AI encompasses a broad range of technologies, from basic rule-based systems to c
 #### 6. Conclusion
 Understanding the distinctions between AI, Machine Learning, Deep Learning, Generative AI, and Applied AI is fundamental for harnessing their potential. Each subfield offers unique capabilities and applications that drive innovation and efficiency across various domains.
 
+![AI Overview](https://github.com/Mubashar-Bashir/Q-4-Generative-AI/blob/master/Generative-AI/A-comparative-view-of-AI-machine-learning-deep-learning-and-generative-AI-source.png?raw=true)
 
+<!-- 
 [def]: [path-to-your-image.png][def2]
-[def2]: https://github.com/Mubashar-Bashir/Q-4-Generative-AI/blob/master/Generative-AI/A-comparative-view-of-AI-machine-learning-deep-learning-and-generative-AI-source.png
+[def2]: https://github.com/Mubashar-Bashir/Q-4-Generative-AI/blob/master/Generative-AI/A-comparative-view-of-AI-machine-learning-deep-learning-and-generative-AI-source.png -->
