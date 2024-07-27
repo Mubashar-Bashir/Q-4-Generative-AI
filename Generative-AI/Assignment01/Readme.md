@@ -137,7 +137,9 @@ Understanding the distinctions between AI, Machine Learning, Deep Learning, Gene
 <!-- 
 [def]: [path-to-your-image.png][def2]
 [def2]: https://github.com/Mubashar-Bashir/Q-4-Generative-AI/blob/master/Generative-AI/A-comparative-view-of-AI-machine-learning-deep-learning-and-generative-AI-source.png -->
-### -------------------------------------------------------------------------------####
+### -------------------------------------------------------------------------------###
+<img width="625" alt="five steps of AGI" src="https://github.com/user-attachments/assets/764e863f-a2e6-4972-a7b8-1b26ac061cc2">
+
 ### Topic 2 Define Artificial General Intelligence (AGI) and outline the five steps to achieve super-intelligence.
 # Artificial General Intelligence (AGI)
 **Definition**: Artificial General Intelligence (AGI) refers to a type of AI that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks at a level comparable to human intelligence. Unlike narrow AI, which is designed for specific tasks, AGI can perform any intellectual task that a human being can do.
