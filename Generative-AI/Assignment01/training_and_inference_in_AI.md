@@ -1,5 +1,7 @@
 
-# Training and Inference in AI
+# Training and Inference in AI![Overview-of-training-and-inference-in-deep-learning](https://github.com/user-attachments/assets/8d18327c-19a3-41b2-9f97-405359f2c4a2)
+
+![training_vs_inference](https://github.com/user-attachments/assets/cd6827d8-37a4-417e-8a97-46b01be69914)
 
 ## Training
 **Definition**: Training in AI refers to the process of teaching a machine learning model to recognize patterns and make decisions based on data. During training, the model learns from a dataset by adjusting its internal parameters to minimize the error in its predictions.
