@@ -9,3 +9,7 @@
 *   Clarify what Large Language Models (LLMs) are, compare open-source and closed-source LLMs, and discuss how LLMs can produce hallucinations.
 *   Explain models, multimodal and foundation models, also discuss how they can be fine-tuned.
 *   Identify the key differences between CPUs, GPUs, and NPUs, and explain the major distinctions between x86 and ARM microprocessors.
+### -------------------------------------------------------------------------------------------###
+
+#   Q1.     Differentiate between AI, machine learning, deep learning, generative AI, and applied AI.
+      AI: Artificial Intelligence is a broad field that involves creating intelligent machines that can perform tasks that
