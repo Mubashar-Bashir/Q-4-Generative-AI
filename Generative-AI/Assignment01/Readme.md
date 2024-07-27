@@ -9,7 +9,7 @@
 *   Clarify what Large Language Models (LLMs) are, compare open-source and closed-source LLMs, and discuss how LLMs can produce hallucinations.
 *   Explain models, multimodal and foundation models, also discuss how they can be fine-tuned.
 *   Identify the key differences between CPUs, GPUs, and NPUs, and explain the major distinctions between x86 and ARM microprocessors.
-### -------------------------------------------------------------------------------------------###
+---
 
 ## Topic: Differentiate between AI, Machine Learning, Deep Learning, Generative AI, and Applied AI
 
@@ -137,7 +137,7 @@ Understanding the distinctions between AI, Machine Learning, Deep Learning, Gene
 <!-- 
 [def]: [path-to-your-image.png][def2]
 [def2]: https://github.com/Mubashar-Bashir/Q-4-Generative-AI/blob/master/Generative-AI/A-comparative-view-of-AI-machine-learning-deep-learning-and-generative-AI-source.png -->
-### -------------------------------------------------------------------------------------------###
+---
 <img width="625" alt="five steps of AGI" src="https://github.com/user-attachments/assets/764e863f-a2e6-4972-a7b8-1b26ac061cc2">
 
 ### Topic 2 Define Artificial General Intelligence (AGI) and outline the five steps to achieve super-intelligence.
