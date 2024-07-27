@@ -5,7 +5,8 @@
 ### 1. Introduction
 Artificial Intelligence (AI) is a broad and transformative field that encompasses various subfields, each with unique characteristics and applications. Understanding the distinctions between AI, Machine Learning (ML), Deep Learning (DL), Generative AI, and Applied AI is crucial for leveraging these technologies effectively.
 
-![AI Overview][def]
+![AI Overview]
+![AI-ML-DL-GenAI](https://github.com/user-attachments/assets/077efae2-ef06-4fef-808e-edb72c912010)
 
 ### 2. Overview
 AI serves as the umbrella term for technologies that enable machines to mimic human intelligence. Within AI, Machine Learning and Deep Learning represent specific approaches to learning from data. Generative AI focuses on creating new content, while Applied AI emphasizes practical implementations of AI solutions.
