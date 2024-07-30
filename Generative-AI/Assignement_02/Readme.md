@@ -254,8 +254,8 @@ Nvidia NIM is a powerful tool for organizations looking to optimize their AI, da
 ## Overview
 
 Kubernetes-powered cloud services provide a spectrum of solutions for deploying, managing, and scaling containerized applications in the cloud. These services offer varying levels of control, automation, and flexibility to meet diverse needs of developers and organizations.
+![1714419027693](https://github.com/user-attachments/assets/2c18466b-f143-4c6f-be1a-6d07b17ed4ce)
 
-Assignement_02\physical_host_vs_VM.png
 ## Spectrum of Kubernetes-Powered Cloud Services
 
 1. **Managed Kubernetes Services**
@@ -268,6 +268,7 @@ Assignement_02\physical_host_vs_VM.png
      - Simplified cluster management
      - Automatic updates and security patches
      - Integrated with cloud provider's ecosystem
+<img width="1116" alt="spectrum of kubernetees" src="https://github.com/user-attachments/assets/ff6400ca-bb3e-4286-bf19-a0652d9582d2">
 
 2. **Kubernetes on Virtual Machines (VMs)**
    - **Description**: Deploying Kubernetes clusters on cloud virtual machines, providing more control over the environment.
@@ -278,6 +279,7 @@ Assignement_02\physical_host_vs_VM.png
      - Greater control over configuration and management
      - Flexibility to customize the infrastructure
      - Suitable for complex and specialized workloads
+<img width="709" alt="physical_host_vs_VM" src="https://github.com/user-attachments/assets/fc97484a-fed7-4d80-bc8c-b7ca532cf7c7">
 
 3. **Kubernetes on Bare Metal**
    - **Description**: Running Kubernetes directly on bare metal servers, bypassing virtualization for better performance.
@@ -297,6 +299,7 @@ Assignement_02\physical_host_vs_VM.png
      - No infrastructure management
      - Auto-scaling and pay-per-use pricing
      - Fast deployment and high developer productivity
+<img width="451" alt="VMWARE setup" src="https://github.com/user-attachments/assets/b2f4ba32-8f3d-41c0-820b-89d035b66ce0">
 
 5. **Hybrid and Multi-Cloud Kubernetes**
    - **Description**: Enabling Kubernetes clusters to run across multiple environments, including on-premises, public clouds, and edge locations.
