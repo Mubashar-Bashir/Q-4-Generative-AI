@@ -36,6 +36,202 @@ Conversational User Interfaces (CUIs) are systems that allow users to interact w
 
 ### Description:
 GPTs (Generative Pre-trained Transformers) are a type of AI model developed by OpenAI that can understand and generate human-like text. They are based on transformer architecture and pre-trained on vast amounts of text data.
+Custom GPTS are a configurable, shareable chat experience available to ChatGPT plus subscribers. Custom GPTs were announced on November 6th, 2023 at their inaugural Dev Day event and the GPT Store was announced on January 10th, 2024.
+
+Picture of Custom GPT
+
+# Custom GPTs and AI Stacks
+
+## Custom GPTs Overview
+
+### What Makes Up a Custom GPT?
+
+Custom GPTs have several configurable properties via the GPT Editor:
+
+- **Name**
+- **Logo**
+- **Description**
+- **Custom Instructions**
+- **Conversation Starters** (max. 4)
+- **Knowledge Retrieval**:
+  - Maximum 10 files
+  - Maximum 512MB per file
+- **Optional Access to OpenAI Capabilities**:
+  - Web Browsing
+  - DALL-E Image Generation
+  - Code Interpreter
+  - Actions (via OpenAPI specification)
+  - Authentication Setup (OAuth or Token-based)
+- **Privacy Policy URL** (for shared GPTs with Actions)
+- **Sharing Options**:
+  - Publish: Only you, Anyone with Link, Everyone
+  - Public, Shareable URL for non-private GPTs
+
+### Product Announcements Leading up to Custom GPTs
+
+1. **ChatGPT Plugins (March 23, 2023)**: Allowed ChatGPT to call REST API endpoints.
+2. **Code Interpreter (March 23, 2023)**: Enabled creation and running of scripts in a sandboxed Python interpreter.
+3. **Web Browser (March 23, 2023)**: Allowed ChatGPT to search the open web.
+4. **ChatGPT app for iOS (May 18, 2023)**: Native ChatGPT app for iOS and Android.
+5. **Custom Instructions (July 20, 2023)**: Allowed users to provide personal information and chatbot direction.
+6. **See, Hear and Speak (September 25, 2023)**: Powered by GPT-4V, Whisper, and Text-to-Speech.
+7. **DALL-E 3 (October 19, 2023)**: Integrated image generation model into ChatGPT.
+8. **Assistants API (November 6, 2023)**: Allowed developers to create assistants within their applications.
+9. **Actions (November 6, 2023)**: Simplified and renamed Plugins as Actions within GPTs.
+10. **Custom GPTs (November 6, 2023)**: Actions bundled into shareable, re-usable "chat templates".
+
+### Key Benefits of Custom GPTs
+
+- **Custom Instructions**: Available at the "chat template" level, allowing better context management and action calling.
+- **Sharable**: Can be private or shared via URL, driving discoverability.
+- **Easy to Start**: No coding experience required, includes a chatbot editor, and DALL-E can generate custom icons.
+- **Cost Model**: No additional cost for ChatGPT plus subscribers, with no escalating usage fees.
+
+### Key Risks of Custom GPTs
+
+- **Platform Risk**: Potential for OpenAI to adopt, ban, or abandon your features.
+- **Adversarial Prompting**: Prompt Injection remains a risk.
+- **No Moat**: Open-source models may catch up due to their task-specific accuracy and cost benefits.
+- **LLM Reliability**: Current autoregressive chatbots have reliability issues, including hallucinations and prompt injection.
+
+### Why Create a Custom GPT?
+
+Despite the risks, there are valuable opportunities:
+
+- **Task-specific, No-Code Custom GPT for Personal Use**: Tailored for specific problems.
+- **Retrieval Augmented Generation (RAG) Prototyping**: Quick and cost-effective prototyping.
+- **Focus Effort on Actions**: Creating value behind your API for future agent integration.
+- **Collect Users via Authentication**: Gather contact information of interested users.
+- **Plan an Open Source Migration**: Use platforms like [Dify.AI](https://github.com/langgenius/dify) for a future migration.
+- **Have Fun Learning Something New**: A valuable learning experience.
+
+## AI Stacks Overview
+
+### 1. Local AI Microservices Development Stack
+
+- **Components**: FastAPI, Docker, PostgreSQL, Kafka, SQLModel.
+- **Benefits**: High customization, control over data and processes.
+- **Use Cases**: Complex, integrated AI applications requiring robust backend support.
+
+### 2. Serverless with OpenAI APIs
+
+- **Components**: OpenAI APIs, Serverless Framework (e.g., AWS Lambda).
+- **Benefits**: Scalable, low maintenance, quick to deploy.
+- **Use Cases**: Chatbots, content generation, automated customer service.
+
+### 3. Custom AI Stack with PyTorch, Llama, and Kubernetes
+
+- **Components**: PyTorch for model training, Llama for efficient inference, Kubernetes for orchestration.
+- **Benefits**: High performance, scalable, customizable.
+- **Use Cases**: Advanced machine learning projects, large-scale AI deployments.
+
+### 4. OpenAI GPTs Stack with Conversational Interfaces
+
+- **Components**: OpenAI GPT, Custom Instructions, Knowledge Retrieval, Actions.
+- **Benefits**: Powerful conversational AI, easy customization, shareable.
+- **Use Cases**: Personal assistants, customer support, educational tools.
+
+### 5. The Rise of Agentic AI: A New Era of Intelligent Collaboration
+
+- **Description**: AI systems that can autonomously perform tasks and collaborate with humans.
+- **Benefits**: Increased efficiency, automation of complex tasks.
+- **Use Cases**: Virtual assistants, automated research, complex problem-solving.
+
+### 6. The Next Wave of AI: Humanoids and Physical AI
+
+- **Description**: AI integrated into robots and physical entities, mimicking human actions and interactions.
+- **Benefits**: Enhanced human-like interaction, physical task automation.
+- **Use Cases**: Robotics, healthcare, customer service.
+
+## Conversational User Interfaces (CUIs)
+
+### 1. What are Conversational User Interfaces (CUIs)?
+
+**Description**: Systems allowing interaction with digital services via natural language.
+
+**Features**:
+- Natural Language Processing (NLP)
+- Dialogue Management
+- Multi-modal Interaction
+- Personalization
+
+**Benefits**:
+- Ease of Use
+- Accessibility
+- Efficiency
+- Engagement
+
+**Use Cases**:
+- Customer Support
+- Virtual Assistants
+- E-commerce
+- Healthcare
+
+### 2. What are GPTs? Features and Use Cases of Custom GPTs
+
+**Description**: Generative Pre-trained Transformers for text generation and understanding.
+
+**Features**:
+- Custom Training
+- Natural Language Understanding
+- Content Generation
+- Adaptability
+
+**Use Cases**:
+- Content Creation
+- Customer Interaction
+- Education
+- Healthcare
+
+### 3. What is the Future of Conversational User Interfaces (CUIs)?
+
+**Trends**:
+- Advancements in AI
+- Integration with IoT
+- Emotional Intelligence
+- Multilingual Support
+- Personalization
+
+**Impact**:
+- Wider Adoption
+- Improved Accessibility
+- Enhanced User Experience
+- Innovation in Services
+
+### 4. OpenAI Custom GPT: A Platform for CUI
+
+**Description**: Platform for creating tailored conversational AI models.
+
+**Features**:
+- Customization
+- Scalability
+- Integration
+- Flexibility
+
+**Benefits**:
+- Enhanced Interaction
+- Cost Efficiency
+- Innovation
+- User Satisfaction
+
+### 5. Can Visual Elements within CUIs be Interactive?
+
+**Description**: Yes, visual elements can enhance interactions.
+
+**Examples**:
+- Interactive Buttons
+- Rich Media
+- Forms and Inputs
+- Charts and Graphs
+
+**Benefits**:
+- Enhanced Engagement
+- Improved Clarity
+- User Control
+- Aesthetic Appeal
+
+By leveraging these features and capabilities, CUIs offer dynamic and effective user interactions, making technology more accessible and enjoyable to use.
+
 
 ### Features of Custom GPTs:
 - **Custom Training**: Tailored to specific datasets and applications.
@@ -48,6 +244,7 @@ GPTs (Generative Pre-trained Transformers) are a type of AI model developed by O
 - **Customer Interaction**: Automated customer service and chatbots.
 - **Education**: Personalized tutoring and educational content generation.
 - **Healthcare**: Generating medical reports and providing patient support.
+
 
 ## 3. What is the Future of Conversational User Interfaces (CUIs)?
 
