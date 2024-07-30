@@ -8,11 +8,13 @@
 
 ---
 # Conversational User Interfaces (CUIs)
+![UIUX with CUI](https://github.com/user-attachments/assets/b7cad37e-8783-4e7f-aadd-94b55341865c)
 
 ## 1. What are Conversational User Interfaces (CUIs)?
 
 ### Description:
 Conversational User Interfaces (CUIs) are systems that allow users to interact with digital services through natural language dialogue. These interfaces leverage text or voice to simulate human conversation, making technology more accessible and intuitive.
+![Talk to data](https://github.com/user-attachments/assets/6904944c-b5d3-461a-af93-de624d25f27f)
 
 ### Key Features:
 - **Natural Language Processing (NLP)**: Understanding and generating human language.
@@ -43,6 +45,8 @@ Picture of Custom GPT
 # Custom GPTs and AI Stacks
 
 ## Custom GPTs Overview
+![what-is-a-custom-gpt](https://github.com/user-attachments/assets/3be9fa7b-6680-4f0e-99c9-bca8c12bc12a)
+
 
 ### What Makes Up a Custom GPT?
 
